@@ -1,0 +1,13 @@
+.env
+.idea/
+.vscode/
+.metals/
+.bsp/
+.bloop/
+
+__pycache__/
+.ipynb_checkpoints/
+
+.DS_Store
+
+data/

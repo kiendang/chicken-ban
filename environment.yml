@@ -1,0 +1,16 @@
+name: chicken-ban
+channels:
+  - defaults
+  - huggingface
+  - conda-forge
+dependencies:
+  - pytorch=1.10
+  - cudatoolkit
+  - ipykernel
+  - ca-certificates
+  - certifi
+  - openssl
+  - python-dotenv
+  - praw
+  - transformers
+  - datasets
